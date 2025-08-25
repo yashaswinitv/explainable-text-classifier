@@ -1,0 +1,24 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "explainable-text-classifier"
+version = "0.1.0"
+description = "DistilBERT + SHAP on AG News with serving, tests, and CI"
+authors = [{ name = "Yashaswini Talakadu Vijaykumar", email = "yashaswinivijaykumar07@gmail.com" }]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = []
+
+[tool.black]
+line-length = 100
+
+[tool.isort]
+profile = "black"
+
+[tool.ruff]
+line-length = 100
+
+[tool.pytest.ini_options]
+addopts = "-q"
