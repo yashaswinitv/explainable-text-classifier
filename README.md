@@ -4,7 +4,7 @@
 
 **Author:** Yashaswini Talakadu Vijaykumar  
 **Email:** yashaswinivijaykumar07@gmail.com  
-**Bio:** Master’s student in Data Science at Queen Mary University of London (Distinction in Semester A); interests include NLP, scientometrics, explainable AI, and MLOps.  
+**Bio:** Master’s student in Data Science at Queen Mary University of London; interests include NLP, scientometrics, explainable AI, and MLOps.  
 **GitHub:** [yashaswinitv](https://github.com/yashaswinitv)
 
 A tidy, GitHub‑ready NLP project: fine‑tunes DistilBERT on the AG News dataset, reports metrics, and explains predictions with SHAP. Includes FastAPI serving, Docker, tests, and CI.
